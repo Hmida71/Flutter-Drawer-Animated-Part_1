@@ -14,5 +14,5 @@ import 'package:flutter/painting.dart';
  <hr>
  
 <h1>
-🐱‍👤 3D Drawer Animated && made with algeria ❤
+🚀 3D Drawer Animated && made with algeria ❤
 </h1>
